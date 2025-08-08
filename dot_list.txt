@@ -1,0 +1,11 @@
+# hypr
+.config/hypr/hyprland.conf
+.config/hypr/hyprpaper.conf
+# kitty
+.config/kitty/kitty.conf
+# waybar
+.config/waybar/assets
+.config/waybar/config
+.config/waybar/scripts
+.config/waybar/style.css
+
