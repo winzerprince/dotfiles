@@ -11,9 +11,7 @@
 [![Kitty](https://img.shields.io/badge/Terminal-Kitty-blue?style=for-the-badge&logo=kitty&logoColor=white&color=F28778)](https://sw.kovidgoyal.net/kitty/)
 [![Stars](https://img.shields.io/github/stars/winzerprince/dotfiles?style=for-the-badge&color=FFCB6B)](https://github.com/winzerprince/dotfiles/stargazers)
 
-A collection of my personal dotfiles for Hyprland on Arch Linux. These configurations focus on aesthetics, usability, and performance.
-
-</div>
+A collection of my personal dotfiles for Hyprland on Arch. Some of the files have been inpired by other ricers on github and yes, I created most this readme with Ai specifically claude sonnet 4</div>
 
 ## 📋 Table of Contents
 
@@ -121,11 +119,7 @@ git clone https://github.com/winzerprince/dotfiles.git ~/dotfiles
 # Navigate to the dotfiles directory
 cd ~/dotfiles
 
-# Make the sync script executable
-chmod +x dotscript.txt
-
-# Run the sync script to apply configurations
-./dotscript.txt
+# Sorry no installation script yet, for now you can copy what you find relevant or follow the manual installtion steps.
 ```
 
 ### 📦 Required Packages
@@ -147,6 +141,8 @@ If you prefer to install manually:
 1. **Backup your existing configs** (recommended):
 
    ```bash
+   # Please make sure to study the relevant files first before you make any changes
+
    cp -r ~/.config/hypr ~/.config/hypr.bak
    cp -r ~/.config/waybar ~/.config/waybar.bak
    cp -r ~/.config/kitty ~/.config/kitty.bak
