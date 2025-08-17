@@ -5,13 +5,13 @@
 
 ![Dotfiles Banner](./assets/images/2025-08-17-110346_grim.png)
 
-[![License](https://img.shields.io/github/license/winzerprince/dotfiles?color=blue&style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/github/license/winzerprince/dotfiles?color=blue&style=for-the-badge)](./LICENSE)
 [![Hyprland](https://img.shields.io/badge/WM-Hyprland-blue?style=for-the-badge&logo=hyprland&logoColor=white&color=7CB342)](https://hyprland.org)
 [![Waybar](https://img.shields.io/badge/Bar-Waybar-blue?style=for-the-badge&color=4A86CF)](https://github.com/Alexays/Waybar)
 [![Kitty](https://img.shields.io/badge/Terminal-Kitty-blue?style=for-the-badge&logo=kitty&logoColor=white&color=F28778)](https://sw.kovidgoyal.net/kitty/)
 [![Stars](https://img.shields.io/github/stars/winzerprince/dotfiles?style=for-the-badge&color=FFCB6B)](https://github.com/winzerprince/dotfiles/stargazers)
 
-A collection of my personal dotfiles for Hyprland on Arch. Some of the files have been inpired by other ricers on github and yes, I created most this readme with Ai specifically claude sonnet 4</div>
+A collection of my personal dotfiles for Hyprland on Arch. Some of the files have been inspired by [other projects](#-credits) on GitHub that got me into the rice fields</div>
 
 ## 📋 Table of Contents
 
@@ -334,6 +334,8 @@ This dotfiles collection was inspired by and built upon the work of many talente
 ### 🎨 Design Inspiration
 
 - **[Waybar](https://github.com/Alexays/Waybar)** - Waybar configurations and themes inspired by the official examples
+- **[end-4/dots-hyprland](https://github.com/end-4/dots-hyprland)** - Beautiful Hyprland dotfiles that inspired some configurations
+- **[JaKooLit/Hyprland-Dots](https://github.com/JaKooLit/Hyprland-Dots)** - Comprehensive Hyprland setup with great ideas and implementations
 - Various dotfiles repositories on GitHub
 - r/unixporn community
 - Hyprland showcase galleries
