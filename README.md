@@ -333,6 +333,7 @@ This dotfiles collection was inspired by and built upon the work of many talente
 
 ### 🎨 Design Inspiration
 
+- **[Waybar](https://github.com/Alexays/Waybar)** - Waybar configurations and themes inspired by the official examples
 - Various dotfiles repositories on GitHub
 - r/unixporn community
 - Hyprland showcase galleries
